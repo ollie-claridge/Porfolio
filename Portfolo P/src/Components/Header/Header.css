@@ -1,0 +1,17 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.categories, p{
+    display: flex;
+    width: 30%;
+    justify-content: space-around;
+    cursor: pointer;
+}
+
+p:hover{
+    color: rgb(84, 197, 238);
+    transition: all 0.5s ease;
+}
