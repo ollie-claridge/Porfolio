@@ -7,7 +7,8 @@ function Header() {
   return (
     <div className='header'>
         <div className="logo">
-            {/* <img src = {Logo}></img> */}<p>logo</p>
+            {/* <img src = {Logo} alt="Logo" ></img> */}
+            <p>logo</p>
         </div>
 
         <div className="categories">

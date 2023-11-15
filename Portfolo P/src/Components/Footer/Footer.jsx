@@ -3,7 +3,10 @@ import './Footer.css'
 
 function Footer() {
   return (
-    <div>Footer</div>
+    <div className='Footer'>
+      <p>Hope to hear from you</p>
+      <p>Good day</p>
+    </div>
   )
 }
 
