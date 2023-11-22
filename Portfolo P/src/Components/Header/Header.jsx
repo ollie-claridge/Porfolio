@@ -1,5 +1,6 @@
 import React from 'react'
 import './Header.css'
+import { Link } from 'react-router-dom'
 // import Logo from '../../assets/Logo.png'
 
 function Header() {
@@ -12,9 +13,12 @@ function Header() {
         </div>
 
         <div className="categories">
-            <p className='navCat'>About</p>
+            <Link to="/apiwork"><p className='navCat'>About</p></Link>
+
             <p className='navCat'>Projects </p>
+
             <p className='navCat'>Contact</p>
+
         </div>
     </div>
   )

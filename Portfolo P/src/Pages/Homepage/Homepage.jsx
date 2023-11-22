@@ -1,7 +1,6 @@
 import React from 'react'
 import './Homepage.css'
 import FS from '../../assets/FakeStoreHP.png'
-import UL from '../../assets/UniLifeSH.png'
 
 
 function Homepage() {
@@ -33,7 +32,7 @@ function Homepage() {
         <p>UniLife Page</p>
         <p>Another API</p>
     </div>
-      <img src = {UL} className="SHexample"/>
+      {/* <img src = {UL} className="SHexample"/> */}
     </div>
     <div className="example3">
     <div className="example-info">
