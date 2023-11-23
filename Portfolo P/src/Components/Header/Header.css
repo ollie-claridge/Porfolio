@@ -12,7 +12,15 @@
     cursor: pointer;
 }
 
+.navCat{
+    text-decoration: none !important;
+    border-bottom: none;
+    color: white;
+}
+
 .navCat:hover{
     color: rgb(84, 197, 238);
     transition: all 0.5s ease;
+    text-decoration: none !important;
+
 }

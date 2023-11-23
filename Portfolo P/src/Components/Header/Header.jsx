@@ -13,11 +13,11 @@ function Header() {
         </div>
 
         <div className="categories">
-            <Link to="/apiwork"><p className='navCat'>About</p></Link>
+            <Link to="/apiwork"><p alt='navCat' className='navCat'>API WORK</p></Link>
 
-            <p className='navCat'>Projects </p>
+            <Link to="/styleWork"><p alt='navCat' className='navCat'>Style Work</p></Link>
 
-            <p className='navCat'>Contact</p>
+            <Link to="/contact"><p alt='navCat' className='navCat'>Contact Me</p></Link>
 
         </div>
     </div>
