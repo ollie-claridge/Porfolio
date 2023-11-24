@@ -9,7 +9,8 @@ function Header() {
     <div className='header'>
         <div className="logo">
             {/* <img src = {Logo} alt="Logo" ></img> */}
-            <p>logo</p>
+            <Link to="/"> <p>logo</p></Link>
+            
         </div>
 
         <div className="categories">
