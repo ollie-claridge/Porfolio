@@ -5,7 +5,6 @@
 
 .intro{
     border-bottom: 1px solid rgb(191, 191, 191);
-    border-radius: 20px;
     display: flex;
     justify-content: center;
 }
@@ -37,10 +36,6 @@
 h2{
     text-decoration: underline;
     font-weight: 100;
-}
-
-.ps{
-    border-bottom: 1px solid rgb(191, 191, 191);
 }
 
 .SHexample{
