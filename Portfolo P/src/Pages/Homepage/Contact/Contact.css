@@ -1,0 +1,17 @@
+.contact-page{
+    margin: 0 15rem;
+}
+
+.contact-title{
+    text-align: center;
+    text-decoration: underline;
+    font-weight: 300;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+
+.myLinks{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
