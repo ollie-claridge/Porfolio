@@ -5,6 +5,10 @@
     margin: 0 2rem;
 }
 
+.logo{
+    color: white;
+}
+
 .categories{
     display: flex;
     width: 30%;
