@@ -1,7 +1,6 @@
 import React from 'react'
 import './Apis.css'
-import FS from '../../../assets/FakestoreHP.png'
-
+import FS from '../../../assets/FS.png'
 
 function Apis() {
   return (
