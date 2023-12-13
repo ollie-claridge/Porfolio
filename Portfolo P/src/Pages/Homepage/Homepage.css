@@ -45,6 +45,12 @@
     text-shadow: 1px 1px 10px white;
 }
 
+.Job-title1:hover{
+  font-size: 7rem;
+  transition: font-size 0.5s ease-in-out;
+
+}
+
 h2{
     text-decoration: underline;
     font-weight: 100;
