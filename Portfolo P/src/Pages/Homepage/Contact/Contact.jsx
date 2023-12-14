@@ -11,15 +11,15 @@ function Contact() {
       <div className='my-links'>
         <div className="myLinks">
           <p><GrGithub /> GITHUB</p>
-          <a>https://github.com/ollie-claridge</a>
+          <a href="https://github.com/ollie-claridge" target="_blank">https://github.com/ollie-claridge</a>
         </div>
         <div className="myLinks">
           <p><FaLinkedin /> LINKED IN</p>
-          <a>https://www.linkedin.com/in/oliver-claridge-3b5840296/</a>
+          <a href="https://www.linkedin.com/in/oliver-claridge-3b5840296/" target="_blank">https://www.linkedin.com/in/oliver-claridge-3b5840296/</a>
         </div>
         <div className="myLinks">
           <p><CiMail /> Email</p>
-          <p>ollie.claridge@gmail.com</p>
+          <a href="mailto:ollie.claridge@gmail.com">ollie.claridge@gmail.com</a>
         </div>
       </div>
     </div>
