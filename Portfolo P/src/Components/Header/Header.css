@@ -3,11 +3,9 @@
     align-items: center;
     justify-content: space-between;
     margin: 0 2rem;
+    color: black;
 }
 
-.logo{
-    color: white;
-}
 
 .categories{
     display: flex;
@@ -19,7 +17,6 @@
 .navCat{
     text-decoration: none !important;
     border-bottom: none;
-    color: white;
 }
 
 .navCat:hover{

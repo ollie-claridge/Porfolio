@@ -1,4 +1,9 @@
 #root {
   padding: 0;
   padding-bottom: 20px;
+  background-color: white;
+}
+
+p, h2{
+  color: black;
 }
