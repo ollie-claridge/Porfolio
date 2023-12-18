@@ -16,8 +16,8 @@ function Homepage() {
       <div className="about">
       <h2 >About me</h2>
       <p>I have been learning to code while fitting it around my full-time job. I have completed a bootcamp course with Mimo-Dev this 
-        year. Without a degree, it can be a challange finding work in this field but with the work I put in and how keen I am to learn
-        whatever the popular language is necerssry for that situation.</p>
+        year. Without a degree, it can be a challange finding work in this field with eager I nam to break into this industry it's only a matter of time before 
+        one of you give me a chance and I'm able to show you how capble I am and what a fast learner I can be.</p>
       </div>
    <div className="portrait">
      <h2>(insert-protrait)</h2>
