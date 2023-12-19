@@ -14,7 +14,7 @@ function Header() {
         </div>
 
         <div className="categories">
-            <Link to="/apiwork"><p alt='navCat' className='navCat'>API WORK</p></Link>
+            <Link to="/apiwork"><p alt='navCat' className='navCat'>API Work</p></Link>
 
             <Link to="/styleWork"><p alt='navCat' className='navCat'>Style Work</p></Link>
 
