@@ -1,0 +1,45 @@
+.style-page{
+    padding: 0 3rem;
+}
+
+.style-header{
+    color: black;
+    text-decoration: underline;
+}
+
+.flex-gid-example{
+    color: black;
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    height: 3rem;
+    gap: 1rem;
+    color: black;
+}
+
+.This{
+    background-color: red;
+}
+
+.Was{
+    background-color: orange;
+}
+
+.Made{
+    background-color: yellow;
+}
+
+.Using{
+    background-color: green;
+}
+
+.Flex{
+    background-color: blue;
+}
+
+.Grid{
+    background-color: violet;
+}
