@@ -7,4 +7,12 @@
     align-items: center;
     justify-content: space-around;
     padding-bottom: 20px;
+    margin: 20px;
+    padding: 10px;
 }
+
+.FS-example:hover {
+    /* Styles to apply when hovering over the element */
+    transform: scale(1.2) ease-in-out;  /* Make the element slightly larger */
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);  /* Add a subtle shadow */
+  }

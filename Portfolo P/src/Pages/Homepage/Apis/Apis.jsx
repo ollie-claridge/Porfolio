@@ -17,7 +17,7 @@ function Apis() {
          <div className="FS-example">
           <div className="example-info">
             
-          <p>Unilife Page</p>
+          <p>UniLife Page</p>
           <p>Using an API from open API</p>
     </div>
           <img src = {UL1} className='SHexample' alt="Unilife Example" />
