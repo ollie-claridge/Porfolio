@@ -7,7 +7,7 @@ import { CiMail } from "react-icons/ci";
 function Contact() {
   return (
     <div className='contact-page'>
-      <h1 className='contact-title'>Contacts</h1>
+      <h1 className='contact-title'>Contact Info:</h1>
       <div className='my-links'>
         <div className="myLinks">
           <p><GrGithub /> GITHUB</p>
