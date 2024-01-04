@@ -15,7 +15,7 @@ function StyleP() {
         <div className="Grid">Grid</div>
       </div>
       <p>Prob delete this ^</p>
-      <h1 className='style-header'>Firestore</h1>
+      <h1 className='style-header'>Firestore - (if more work is completed)</h1>
       {/* <div className="example-info">
               <p>My uses of firestore</p>
               <img src=""/>
