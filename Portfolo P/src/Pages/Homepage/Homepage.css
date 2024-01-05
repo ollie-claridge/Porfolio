@@ -1,6 +1,5 @@
 .Homepage{
     margin: 0 3rem;
-    padding-bottom: 30px;
 }
 
 .intro{
@@ -74,6 +73,8 @@ h2{
 .ps{
     display: flex;
     justify-content: space-around;
+    border-bottom: 1px solid grey;
+    padding-bottom: 30px;
 }
 
 .about{
