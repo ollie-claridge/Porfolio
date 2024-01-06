@@ -20,7 +20,8 @@ function Homepage() {
         one of you give me a chance and I'm able to show you how capble I am and what a fast learner I can be.</p>
       </div>
    <div className="portrait">
-     <h2>(insert-protrait)</h2>
+     <h2>(insert-portrait)</h2>
+     <p>Me</p>
     </div>
 
     </div>
