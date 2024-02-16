@@ -16,18 +16,18 @@ function Homepage() {
     <div className="ps">
       <div className="about">
       <h2 >About me</h2>
-      <p>I have been learning to code while fitting it around my full-time job. I have completed a bootcamp course with Mimo-Dev this 
-        year. Without a degree, it can be a challange finding work in this field with eager I nam to break into this industry it's only a matter of time before 
-        one of you give me a chance and I'm able to show you how capble I am and what a fast learner I can be.a Also I can't understand how
-        anyone couldn't hire me. seriously, It'd be such a huge regerey on you</p>
+      <p>Hello my name is Ollie, I'm a passionate Junior Front-End Developer with a keen instest for creating user-friendly and attractive
+         websites. I've accumilated my skills in HTML, CSS, JavaScript, and React, bringing designs to life with a keen eye for detail. 
+         My journey in web development started last year after craving change in my life, and since then, I've been committed to learning 
+         and growing in this dynamic field as one should. I love taking on new challenges and am always eager to collaborate on projects that 
+         push my boundaries so I can increase my skill level. I like to fill my down time expericancing new things while traverlling to places I 
+         haven't been before. Look forward to hearing from you soon and hopfully we can build some great projects together
+         </p>
    <div className="portrait">
      <h2>(insert-portrait)</h2>
      <p>Me</p>
     </div>
-
     </div>
-
- 
     </div>
     </div>
 

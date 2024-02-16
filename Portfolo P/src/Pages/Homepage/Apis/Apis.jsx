@@ -2,6 +2,7 @@ import React from 'react'
 import './Apis.css'
 import FS from '../../../assets/FS.png'
 import UL1 from '../../../assets/UL-1.png'
+import PokemonExample from '../../../assets/Pokemon-ss.png'
 
 function Apis() {
   return (
@@ -24,6 +25,17 @@ function Apis() {
 
 
          </div>
+         <a href='https://ollie-claridge.github.io/pokemon/'>
+          <div className="FS-example">
+    <img src = {PokemonExample} className="SHexample" alt="Pokemon Example" />
+    <div className="example-info">
+          <p>Pokemon Genorator</p>
+          <p className='pokemon-info'>
+            Using Pokiapi I've pokemon genorator which displays all the informaation
+            on whatever pokemon is randomly selected.</p>
+    </div>
+         </div>
+         </a>
     </div>
   )
 }

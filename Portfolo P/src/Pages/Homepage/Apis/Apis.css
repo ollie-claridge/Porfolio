@@ -15,4 +15,28 @@
     /* Styles to apply when hovering over the element */
     transform: scale(1.2) ease-in-out;  /* Make the element slightly larger */
     box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);  /* Add a subtle shadow */
+    cursor: pointer;
   }
+
+  .SHexample{
+    width: 55%;
+    border-radius: 25px;
+}
+
+.example1{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+
+.example-info{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.pokemon-info{
+    width: 80%;
+}
